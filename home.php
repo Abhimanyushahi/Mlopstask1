@@ -1,3 +1,3 @@
-?php>
-echo " Welcome To my dev branch page1! "
+<?php
+echo " Welcome To my dev branch page2! "
 ?>
